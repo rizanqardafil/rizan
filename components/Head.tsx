@@ -1,10 +1,10 @@
-import { NextSeo, NextSeoProps } from "next-seo";
-import { useRouter } from "next/router";
-import config from "@/site.config";
+import { NextSeo, NextSeoProps } from 'next-seo'
+import { useRouter } from 'next/router'
+import config from '@/site.config'
 
 interface HeadProps extends NextSeoProps {
-  images?: any;
-  image?: string;
+  images?: any
+  image?: string
 }
 const Head = ({
   title,
@@ -14,16 +14,16 @@ const Head = ({
   openGraph,
   ...props
 }: HeadProps) => {
-  const router = useRouter();
+  const router = useRouter()
   return (
     <NextSeo
       title={title}
       description={description}
       openGraph={{
-        site_name: "Wisesa.dev",
-        title: `${title} · Wisesa.dev`,
+        site_name: 'Rizan.dev',
+        title: `${title} · Rizan.dev`,
         description,
-        url: config.baseUrl + (router.asPath || ""),
+        url: config.baseUrl + (router.asPath || ''),
         images: images
           ? images
           : image
@@ -37,7 +37,7 @@ const Head = ({
       }}
       {...props}
     />
-  );
-};
+  )
+}
 
-export default Head;
+export default Head

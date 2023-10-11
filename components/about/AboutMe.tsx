@@ -78,7 +78,7 @@ const AboutMe = () => {
         <Link
           isExternal
           className='underline'
-          href='https://open.spotify.com/user/21xnhzh4qf74t5t4lp2fammai'
+          href='https://open.spotify.com/user/fy7cl2uhcmaz5o0k0o0r6uwh7?si=b8084f2893b240f5'
         >
           listening music
         </Link>

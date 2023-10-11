@@ -1,7 +1,7 @@
 export type NavLink = {
-  url: string;
-  text: string;
-};
+  url: string
+  text: string
+}
 
 export const links: NavLink[] = [
   // {
@@ -9,19 +9,19 @@ export const links: NavLink[] = [
   //   url: "/blog",
   // },
   {
-    text: "Projects",
-    url: "/projects",
+    text: 'Projects',
+    url: '/projects',
   },
   {
-    text: "Snippets",
-    url: "/snippet",
+    text: 'Snippets',
+    url: '/snippet',
   },
+  // {
+  //   text: "Timeline",
+  //   url: "https://timeline.wisesa.dev",
+  // },
   {
-    text: "Timeline",
-    url: "https://timeline.wisesa.dev",
+    text: 'About',
+    url: '/about',
   },
-  {
-    text: "About",
-    url: "/about",
-  },
-];
+]

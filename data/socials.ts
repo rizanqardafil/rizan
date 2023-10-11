@@ -1,27 +1,19 @@
 export default [
   {
     name: 'Email',
-    url: 'mailto:hi@wisesa.dev',
+    url: 'mailto:rizanqardafil.dev@gmail.com',
   },
   {
     name: 'Github',
-    url: 'https://github.com/kelilipan',
+    url: 'https://github.com/rizanqardafil',
   },
   {
     name: 'Instagram',
-    url: 'https://instagram.com/anvaqta',
+    url: 'https://instagram.com/rizanqardafil_',
   },
   {
     name: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/anvaqta/',
-  },
-  {
-    name: 'Medium',
-    url: 'https://svspicious.medium.com/',
-  },
-  {
-    name: 'Polywork',
-    url: 'https://timeline.wisesa.dev/',
+    url: 'https://www.linkedin.com/in/rizanqardafil/',
   },
   {
     name: 'Spotify',

@@ -9,8 +9,8 @@
 ## Running locally
 
 ```bash
-git clone https://github.com/kelilipan/wisesa.dev.git
-cd rizan.dev
+git clone https://github.com/rizanqardafil/rizanqardafil.dev.git
+cd rizanqardafil.dev
 yarn install
 yarn dev
 ```

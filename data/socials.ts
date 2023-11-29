@@ -17,6 +17,6 @@ export default [
   },
   {
     name: 'Spotify',
-    url: 'https://open.spotify.com/user/21xnhzh4qf74t5t4lp2fammai',
+    url: 'https://open.spotify.com/playlist/1NZ1qizDJDPJWokawCY4yv?si=e1354716529f4db2',
   },
 ]

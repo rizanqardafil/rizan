@@ -25,53 +25,35 @@ const AboutMe = () => {
         </Link>{' '}
         with a Bachelor&apos;s degree in Informatics (Computer science) and
         currently working as a <i>Software Engineer</i> (you maybe more familiar
-        with &quot;Front-end engineer&quot;) at{' '}
-        <Link className='underline' href='https://www.tokopedia.com' isExternal>
-          Tokopedia
+        with &quot;Md. Software Engineer&quot;) at{' '}
+        <Link className='underline' href='https://www.sociolla.com/' isExternal>
+          Sociolla
         </Link>
-        . I was previously working as a Software engineer at a start-up called{' '}
-        <Link className='underline' href='https://ketringan.com' isExternal>
-          Ketringan Indonesia
+        . I was previously working as a Software engineer at a Big-Company
+        called{' '}
+        <Link className='underline' href='https://www.mnc.co.id/id' isExternal>
+          MNC Media
         </Link>
         .
       </p>
       <p>
-        I love exploring everything related to technology. When i was in college
-        i join many community and orgs to expand my knowledge, I&apos;m member
-        of{' '}
-        <Link
-          className='underline'
-          href='https://www.instagram.com/cciunitel/?hl=en'
-          isExternal
-        >
-          CCI-Unitel
-        </Link>
-        , part of{' '}
-        <Link
-          className='underline'
-          href='https://www.instagram.com/pramukatelu/?hl=en'
-          isExternal
-        >
-          Pramuka Tel-U
-        </Link>
-        , and i&apos;m the (ex) lab.assistant of{' '}
-        <Link
-          className='underline'
-          href='http://ailabtelkom.github.io/'
-          isExternal
-        >
-          Artificial Intelligence TelU
-        </Link>
-        . Also, I joined many competition such as Competitive programming, UI/UX
-        Design, and{' '}
-        <Link
-          isExternal
-          className='underline'
-          href='https://youngster.id/news/ketringan-com-juara-di-brixgoogle-cloud-hackathon/'
-        >
-          Hackathon
-        </Link>
-        .
+        A passionate Frontend Engineer with a love for teaching. That&apos;s why
+        I&apos;ve joined ADPList as a mentor to provide accessible mentorship to
+        everyone. Through my mentorship, I aim to share my knowledge and
+        expertise with other developers to help them achieve their goals.
+      </p>
+      <p>
+        In addition to being a mentor, I&apos;m also a writer on Twitter where I
+        share my journey and insights related to tech. I&apos;m always eager to
+        share my thoughts on the latest trends in the industry and engage with
+        other like-minded individuals.
+      </p>
+
+      <p>
+        Furthermore, I&apos;m also open to opportunities to speak at events and
+        conferences . If you&apos;re interested in working with me as a mentor
+        or speaker, please feel free to reach out to me via DM or email to
+        inquire about potential business opportunities
       </p>
       <p>
         Outside of software developing thingy, I love playing and{' '}

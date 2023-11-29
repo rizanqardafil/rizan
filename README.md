@@ -10,7 +10,7 @@
 
 ```bash
 git clone https://github.com/kelilipan/wisesa.dev.git
-cd wisesa.dev
+cd rizan.dev
 yarn install
 yarn dev
 ```
@@ -45,4 +45,4 @@ Tools i'm using to build this project
 
 ## License
 
-Licensed under [MIT License, Copyright (c) 2021 Wisesa](./LICENSE)
+Licensed under [MIT License, Copyright (c) 2023 Rizan](./LICENSE)
